@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 import re
 import time
-token = '226499918:AAF4BiOQQmBe9QHp6r6ZsqKzF0dBWt_8XoI'
+token = ''
 
 
 def start(bot, update):
